@@ -1,5 +1,5 @@
 # Timus
-Timus Online Judje 
+Timus Online Judge 
 
 https://acm.timus.ru/?locale=ru
 
